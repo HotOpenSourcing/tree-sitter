@@ -3,7 +3,6 @@ log*.html
 
 .idea
 *.xcodeproj
-.vscode
 .cache
 .zig-cache
 .direnv
@@ -38,3 +37,4 @@ build
 zig-*
 
 /result
+config.bat
